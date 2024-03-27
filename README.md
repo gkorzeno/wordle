@@ -8,5 +8,5 @@ From this project I learned how to utilize Ansi color codes and also got valuabl
 
 ## Install
 Clone the repository.
-Download a text file containg words and ensure the file name matches the filePath
+Download the text file or any text file, just ensure the file name matches the filePath.
 
